@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Senior Data Analyst | AI-Augmented Analytics | Generative AI & LLMs | SQL | Python | Snowflake | Tableau<br><br><br><br>I'm a data analyst who builds AI into the analytics workflow — using Generative AI not as a novelty, but as a productivity layer for faster SQL development, automated reporting, and decision-ready insight generation.<br><br><br><br>Core analytics work :<br><br><br><br>5+ years turning raw data into decisions across credit risk, fraud, and portfolio analytics. Built scalable ETL pipelines (Snowflake, dbt, Apache Airflow) reducing manual reporting by 15–20 hours/week. Designed Early Warning Systems using repayment behavior analytics for proactive risk flagging. Delivered acquisition funnel, underwriting, and fraud analytics supporting a $2.5B+ US Personal Loan portfolio.<br><br><br><br>AI-augmented analytics:<br><br><br><br>Use LLMs (Claude, ChatGPT) and Cursor daily to accelerate SQL development, auto-generate documentation, and synthesize executive summaries from raw query outputs. Built an AI-Powered Risk Insight Generator that automates summary generation from SQL outputs, and an AI SQL Assistant for query optimization. Actively exploring agentic AI workflows and conceptual data quality agents for automated anomaly detection — applying prompt engineering to make analytics faster and more scalable, not just descriptive.<br><br><br><br>Quantified impact:<br><br><br><br>— +11% approval rate lift via underwriting analytics, fraud held below 0.5%<br><br>— +3pt KS statistic uplift on risk scorecards<br><br>— +2.1% conversion improvement on onboarding funnel analytics<br><br>— 15–20 hrs/week reclaimed through pipeline automation<br><br><br><br>Where I've worked : EXL Services, GAIN Credit, Razorpay, and IndiaLends — across credit cards, personal loans, and fraud systems — plus a founder stint and a modeling-focused internship (LSTM, Random Forest) at TERA Finlabs.<br><br><br><br>Certified in : Generative AI with Advanced Language Models (EXL) · Google Data Analytics Professional Certificate · Credit Risk Modeling in Python · Fraud Detection with Big Data and Analytics<br><br><br><br>Tech Stack : SQL · Python · Snowflake · dbt · Apache Airflow · Tableau · Looker · Git | Generative AI · Prompt Engineering · LLMs · Predictive Analytics · Credit Risk · Fraud Analytics<br><br><br><br>Open to Senior Data Analyst / AI Analyst roles where analytics meets applied AI — let's connect
 
-<!--
-**rvishallll/rvishallll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/visshalraaj) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rvishallll&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rvishallll&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rvishallll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=rvishallll&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
