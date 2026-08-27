@@ -1,38 +1,9 @@
-```markdown
 # 💫 About Me:
-Senior Data Analyst | AI-Augmented Analytics | Machine Learning | Deep Learning | Generative AI & LLMs | SQL | Python | Snowflake | Tableau<br><br>
+Senior Data Analyst | AI-Augmented Analytics | Generative AI & LLMs | SQL | Python | Snowflake | Tableau<br><br><br><br>I'm a data analyst who builds AI into the analytics workflow — using Generative AI not as a novelty, but as a productivity layer for faster SQL development, automated reporting, and decision-ready insight generation.<br><br><br><br>Core analytics work :<br><br><br><br>5+ years turning raw data into decisions across credit risk, fraud, and portfolio analytics. Built scalable ETL pipelines (Snowflake, dbt, Apache Airflow) reducing manual reporting by 15–20 hours/week. Designed Early Warning Systems using repayment behavior analytics for proactive risk flagging. Delivered acquisition funnel, underwriting, and fraud analytics supporting a $2.5B+ US Personal Loan portfolio.<br><br><br><br>AI-augmented analytics:<br><br><br><br>Use LLMs (Claude, ChatGPT) and Cursor daily to accelerate SQL development, auto-generate documentation, and synthesize executive summaries from raw query outputs. Built an AI-Powered Risk Insight Generator that automates summary generation from SQL outputs, and an AI SQL Assistant for query optimization. Actively exploring agentic AI workflows and conceptual data quality agents for automated anomaly detection — applying prompt engineering to make analytics faster and more scalable, not just descriptive.<br><br><br><br>Quantified impact:<br><br><br><br>— +11% approval rate lift via underwriting analytics, fraud held below 0.5%<br><br>— +3pt KS statistic uplift on risk scorecards<br><br>— +2.1% conversion improvement on onboarding funnel analytics<br><br>— 15–20 hrs/week reclaimed through pipeline automation<br><br><br><br>Where I've worked : EXL Services, GAIN Credit, Razorpay, and IndiaLends — across credit cards, personal loans, and fraud systems — plus a founder stint and a modeling-focused internship (LSTM, Random Forest) at TERA Finlabs.<br><br><br><br>Certified in : Generative AI with Advanced Language Models (EXL) · Google Data Analytics Professional Certificate · Credit Risk Modeling in Python · Fraud Detection with Big Data and Analytics<br><br><br><br>Tech Stack : SQL · Python · Snowflake · dbt · Apache Airflow · Tableau · Looker · Git | Generative AI · Prompt Engineering · LLMs · Predictive Analytics · Credit Risk · Fraud Analytics<br><br><br><br>Open to Senior Data Analyst / AI Analyst roles where analytics meets applied AI — let's connect
 
-I'm a data analyst who builds AI into the analytics workflow — using Machine Learning, Deep Learning, and Generative AI not as a novelty, but as a productivity layer for faster SQL development, predictive analytics, automated reporting, and decision-ready insight generation.<br><br>
-
-Core analytics work :<br><br>
-
-5+ years turning raw data into decisions across credit risk, fraud, and portfolio analytics. Built scalable ETL pipelines (Snowflake, dbt, Apache Airflow) reducing manual reporting by 15–20 hours/week. Designed Early Warning Systems using repayment behavior analytics for proactive risk flagging. Delivered acquisition funnel, underwriting, and fraud analytics supporting a $2.5B+ US Personal Loan portfolio.<br><br>
-
-AI & Machine Learning:<br><br>
-
-Applied Machine Learning and predictive modeling across credit risk, fraud detection, customer analytics, and portfolio performance. Experience with classification, regression, feature engineering, model evaluation, risk scoring, and predictive analytics using Python and scikit-learn.<br><br>
-
-Explored Deep Learning approaches including LSTM-based modeling for sequential/time-series data, alongside traditional ML techniques such as Random Forest. Combining statistical modeling, ML, and Deep Learning with business context to build practical analytical solutions.<br><br>
-
-AI-augmented analytics:<br><br>
-
-Use LLMs (Claude, ChatGPT) and Cursor daily to accelerate SQL development, auto-generate documentation, and synthesize executive summaries from raw query outputs. Built an AI-Powered Risk Insight Generator that automates summary generation from SQL outputs, and an AI SQL Assistant for query optimization. Actively exploring agentic AI workflows and conceptual data quality agents for automated anomaly detection — applying prompt engineering to make analytics faster and more scalable, not just descriptive.<br><br>
-
-Quantified impact:<br><br>
-
-— +11% approval rate lift via underwriting analytics, fraud held below 0.5%<br><br>
-— +3pt KS statistic uplift on risk scorecards<br><br>
-— +2.1% conversion improvement on onboarding funnel analytics<br><br>
-— 15–20 hrs/week reclaimed through pipeline automation<br><br>
-
-Where I've worked : EXL Services, GAIN Credit, Razorpay, and IndiaLends — across credit cards, personal loans, and fraud systems — plus a founder stint and a modeling-focused internship (LSTM, Random Forest) at TERA Finlabs.<br><br>
-
-Certified in : Generative AI with Advanced Language Models (EXL) · Google Data Analytics Professional Certificate · Credit Risk Modeling in Python · Fraud Detection with Big Data and Analytics<br><br>
-
-Tech Stack : SQL · Python · Snowflake · dbt · Apache Airflow · Tableau · Looker · Git · Machine Learning · Deep Learning · scikit-learn · TensorFlow · LSTM · Random Forest · Predictive Analytics · Generative AI · Prompt Engineering · LLMs · Credit Risk · Fraud Analytics · Jira
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/visshalraaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/visshalraaj) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -59,4 +30,3 @@ Tech Stack : SQL · Python · Snowflake · dbt · Apache Airflow · Tableau · L
 [![](https://komarev.com/ghpvc/?username=rvishallll&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
